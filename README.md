@@ -1,5 +1,5 @@
 # cp1-reactjs-challenge-1
-Rocketseat challenge 1 ReactJS
+Challenge 1 from chapter I (ReactJS)
 
 This is a application created for Ignite Learning.
 
